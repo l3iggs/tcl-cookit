@@ -1,4 +1,4 @@
-# cookit
+# tcl-cookit
 Cookit is a standalone Tcl/Tk binary similar to Tclkit created using cookfs virtual filesystem
 
 Code taken from here:
